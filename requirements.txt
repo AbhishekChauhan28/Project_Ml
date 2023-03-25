@@ -6,5 +6,6 @@ tensorflow
 keras
 catboost
 xgboost
+dill
 scikit-learn
 -e .
