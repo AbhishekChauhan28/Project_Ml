@@ -7,5 +7,6 @@ keras
 catboost
 xgboost
 dill
+Flask
 scikit-learn
 -e .
